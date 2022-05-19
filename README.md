@@ -7,14 +7,10 @@
   </h1>
 </div>
 
----
-
-### :man_technologist: About Me :
-I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Linkedin Badge](https://img.shields.io/badge/-rcanbaba-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/can-babaoglu/))
+I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Linkedin Badge](https://img.shields.io/badge/-rcanbaba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/can-babaoglu/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="Swift" width="36" height="38"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
@@ -32,7 +28,6 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rcanbaba&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcanbaba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
