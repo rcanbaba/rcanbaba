@@ -29,4 +29,4 @@ iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.g
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcanbaba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-https://ilovevpn.app/
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://ilovevpn.app/)
