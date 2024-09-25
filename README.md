@@ -3,6 +3,7 @@
 
 iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Linkedin Badge](https://img.shields.io/badge/-rcanbaba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/can-babaoglu/)
 
+Personal github account
 </div>
 
 
